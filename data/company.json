@@ -2,12 +2,14 @@
     {
         "name": "Thorin Oakenshield",
         "description": "Thorin II, also called the Oakenshield, King under the Mountain or the Mountain King, was the son of Thráin II, the older brother of Frerin and Dís, the grandson of King Thrór and the uncle of Fíli and Kíli. Thorin was best known for his deeds as leader of a company that infiltrated the lost Kingdom under the Mountain to take it back from Smaug and for leading an alliance of Men, Dwarves, and Elves in the Battle of the Five Armies.",
-        "image_source": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThorin_Oakenshield&psig=AOvVaw06Eg1SHF277K1sYuQ21fmP&ust=1705060574185000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCrzOGj1YMDFQAAAAAdAAAAABAD"
+        "image_source": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FThorin_Oakenshield&psig=AOvVaw06Eg1SHF277K1sYuQ21fmP&ust=1705060574185000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCrzOGj1YMDFQAAAAAdAAAAABAD",
+        "url": "thorin"
     },
     {
         "name": "Kili & Fili",
         "description": "Fíli and Kíli were the two most active dwarves of Thorin's company, and apart from Balin, and possibly Bombur, they appeared more frequently as 'individual' characters in Tolkien's novel than the rest of Thorin's companions, who were most often named only in 'group' references to the entire company.",
-        "image_source": "http://www.filmofilia.com/wp-content/uploads/2011/07/hobbit_0.jpg"
+        "image_source": "http://www.filmofilia.com/wp-content/uploads/2011/07/hobbit_0.jpg",
+        "url": "killi-and-filli"
     },
     {
         "name": "Óin",
